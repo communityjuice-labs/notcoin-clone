@@ -1,8 +1,7 @@
 
-# NotCoin Tap-to-Earn Game | Telegram Mini App
+# Build and Launch Your Own NotCoin Telegram App with CommunityJuice
 
-### Launch Your NotCoin Clone with CommunityJuice
-
+### NotCoin Tap-to-Earn Game | Telegram Mini App
 Are you eager to launch your own NotCoin clone but want to avoid the high costs and time commitment of development and maintenance? Look no further! CommunityJuice is here to assist with your product implementation so you can concentrate on marketing and sales.
 
 ![NotCoin Clone GitHub Image](/images/notcoin.jpg "White Label NotCoin | GitHub")
